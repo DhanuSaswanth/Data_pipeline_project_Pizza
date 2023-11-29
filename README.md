@@ -34,12 +34,15 @@ Technologies Used:
 
 
 Pipeline Architecture:
+
 <img width="468" alt="image" src="https://github.com/DhanuSaswanth/pizza_data_pipeline/assets/149637516/2a2c27a7-2f82-4f98-8438-48ac512cfe5e">
 
  Data Model:
+ 
  <img width="468" alt="image" src="https://github.com/DhanuSaswanth/pizza_data_pipeline/assets/149637516/70e144db-792e-4ccc-80f5-79976f26014f">
 
  Dashboard:
+ 
  <img width="347" alt="image" src="https://github.com/DhanuSaswanth/pizza_data_pipeline/assets/149637516/eef1bc5a-32d4-4b8e-98e7-6fc1d0a01cc4">
 
  
